@@ -1,0 +1,28 @@
+#h1{
+    color: #20FC8F;
+    font-size: 75px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #2D2D2A; /* leuchtendes Grün wie im Text */
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.button{
+    color: #20FC8F;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color:#2D2D2A;
+    border-radius: 20px;
+    width: 100px;
+    height: 60px;
+    margin:  auto;
+}
+body{
+    background-color: #353831;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
